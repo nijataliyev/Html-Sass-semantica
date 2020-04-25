@@ -1,0 +1,21 @@
+// pages import
+@import './pages/index';
+@import './pages/about';
+@import './pages/contact';
+
+
+// layout import
+@import './layouts/header';
+@import './layouts/footer';
+@import './layouts/navigation';
+@import './layouts/grid';
+@import './layouts/sidebar';
+
+
+//components import
+@import './components/buttons';
+
+//abstracts import
+@import './abstracts/functions';
+@import './abstracts/mixins';
+@import './abstracts/variables';
